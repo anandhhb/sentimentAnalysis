@@ -1,0 +1,8 @@
+name: sentimentNLP
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+    - pickle-mixin
